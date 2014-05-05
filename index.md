@@ -11,7 +11,7 @@ The Open Science Codefest will gather researchers from ecology, biodiversity sci
 
 ## Conference organization
 
-    - The Codefest will not be run like a typical science confererence, but instead will incorporate elements of an [unconference](http://en.wikipedia.org/wiki/Unconference), with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to maximize rpoductivity and connectivity, while giving ample opportunities for [ignite talks](http://en.wikipedia.org/wiki/Lightning_talk) that promote communication among participants as the activity unfolds.
+The Codefest will not be run like a typical science confererence, but instead will incorporate elements of an [unconference](http://en.wikipedia.org/wiki/Unconference), with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to maximize rpoductivity and connectivity, while giving ample opportunities for [ignite talks](http://en.wikipedia.org/wiki/Lightning_talk) that promote communication among participants as the activity unfolds.
 
 ## Themes
     - Data science
