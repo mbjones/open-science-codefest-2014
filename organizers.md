@@ -8,7 +8,7 @@ title: Organizing Committee
 - Matthew B. Jones (NCEAS)
 - Mark Schildhauer (NCEAS)
 
-# Nominees to be contacted and confirmed
+# Nominees to be contacted
 - Trisha Cruse
 - Carly Strasser
 - Timothee Poisot
@@ -16,6 +16,15 @@ title: Organizing Committee
 - Dave Harris
 - Carl Boettiger
 - Margaret O'Brien
+- Ben Leinfelder
+- Lauren Walker
+- Heather Piwowar
+- Peter Fox
+- Victoria Stodden
+- Ilkay Altintas
+- Kerstin Lenhart
+- Ray Idaszak
+- Chris Lenhardt
 
 
 
