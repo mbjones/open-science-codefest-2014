@@ -5,8 +5,9 @@ title: Organizing Committee
 
 # Organizing Committee
 
-- Matthew B. Jones (NCEAS)
-- Mark Schildhauer (NCEAS)
+- Matthew B. Jones (NCEAS/ISEES)
+- Mark Schildhauer (NCEAS/ISEES)
+- Ray Idaszak (RENCI/WSSI)
 
 # Nominees to be contacted
 - Trisha Cruse
@@ -15,6 +16,7 @@ title: Organizing Committee
 - Naupaka Zimmerman
 - Dave Harris
 - Carl Boettiger
+- Karthik Ram
 - Margaret O'Brien
 - Ben Leinfelder
 - Lauren Walker
