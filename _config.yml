@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Matthew Jones
+
+author:
+  name:           'Matt Jones'
+  email:          'jones@nceas.ucsb.edu'
+  url:            https://matt.magisa.org
+
+# Custom vars
+twitter:
+  nick:           '@metamattj'
+  url:            https://twitter.com/metamattj
+
+github:
+  user:           'mbjones'
+  url:            https://github.com/mbjones
+
+orcid:
+  id:             0000-0003-0077-4738
+  url:            http://orcid.org/0000-0003-0077-4738
