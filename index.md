@@ -36,9 +36,9 @@ The Codefest will not be run like a typical science confererence, but instead wi
 
     - Science data management techniques
 
-- [Hotel and Venue](venue.md)
+- [Hotel and Venue](venue)
 
-- [Organizers](./organizers.md)
+- [Organizers](organizers)
 
 - Sponsors
     - [ISEES](http://isees.nceas.ucsb.edu)
