@@ -8,34 +8,32 @@
           <a class="brand" href="{{ HOME_PATH }}">OPEN SCIENCE CODEFEST 2014 <!--{{ site.title }}--></a>
           <div class="nav-collapse">
             <ul class="nav">
-              {% if page.url == "/about.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/about.html">About</a></li>
 
-              {% if page.url == "/archive.html" %}<li class="dropdown active">{% else %}<li class="dropdown">{% endif %}
-                <a href="{{ site.url }}/archive.html" class="dropdown-toggle" data-toggle="dropdown">
-                  Archive
+              {% if page.url == "/archive" %}<li class="dropdown active">{% else %}<li class="dropdown">{% endif %}
+                <a href="{{ site.url }}/archive" class="dropdown-toggle" data-toggle="dropdown">
+                  Activities
                   <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                  {% if page.url == "/archive.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/archive.html">Posts</a></li>
+                  {% if page.url == "/Activities" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.url }}/archive">Activities</a></li>
 
-                  {% if page.url == "/categories.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/categories.html">Categories</a></li>
+                  {% if page.url == "/categories" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.url }}/categories">Categories</a></li>
 
-                  {% if page.url == "/tags.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/tags.html">Tags</a></li>
+                  {% if page.url == "/tags" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.url }}/tags">Tags</a></li>
 
-                  {% if page.url == "/pages.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/pages.html">Pages</a></li>
+                  {% if page.url == "/pages" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.url }}/pages">Pages</a></li>
 
                 </ul>
               </li>
 
-              {% if page.url == "/venue.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/venue.html">Venue</a></li>
-              {% if page.url == "/venue.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/organizers.html">Organizers</a></li>
+              {% if page.url == "/venue" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.url }}/venue">Venue</a></li>
+              {% if page.url == "/organizers" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.url }}/organizers">Organizers</a></li>
 
               <li><a href="{{ site.url }}/atom.xml"><i class="icon-rss"></i></a></li>
 
