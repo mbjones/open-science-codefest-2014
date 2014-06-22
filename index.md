@@ -1,13 +1,8 @@
 ---
-layout: default
-title: Open Science Codefest Overview
+layout: index
+title: Open Science Codefest 2014
 ---
-
-# Open Science Codefest
-
-*September 2-4, 2014, Santa Barbara, CA*
-
-The Open Science Codefest will gather researchers from ecology, biodiversity science, and other earth and environmental sciences together to collaborate on code projects of mutual interest.  Many people are developing software packages in R, Matlab, Python, Java, and other systems for use in the environmental and earth sciences, but there are only rare opportunities for remote collaboration on these works.  We are inspired by hack-a-thon sessions at major computing conferences around the world, and think that major advances in science can occur when people with shared interests gather and hammer out new solutions. So this is your chance to come hack for science that matters to you.
+{% include JB/setup %}
 
 ## Conference organization
 

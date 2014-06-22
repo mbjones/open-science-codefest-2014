@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="copyright" content="&copy; {{ site.author.name }} 2013">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="{{ HOME_PATH }}assets/css/bootstrap.css" rel="stylesheet">
+    <link href="{{ HOME_PATH }}assets/css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ HOME_PATH }}assets/css/font-awesome.min.css">
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Le fav and touch icons -->
+    <link rel="apple-touch-icon" href="{{ HOME_PATH }}images/touch-icon-iphone.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ HOME_PATH }}images/touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ HOME_PATH }}images/touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ HOME_PATH }}images/touch-icon-ipad-retina.png" />
+
+  </head>
+
+  <body>
+
+    <!-- MBJ: Include the navbar in all pages -->
+    {% include themes/twitter/navbar.html %}
+ 
+    <div class="container-fluid row-fluid span12 hero"></div>
+
+    <div class="wrapper">
+
+    <div class="container">
+
+      <div class="content">
+        {{ content }}
+      </div>
+
+      
+      <footer>
+        <p>&copy; {{ site.author.name }} 2012 
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. <a href="https://github.com/mbjones/open-science-codefest-2014">Source</a>.
+        </p>
+        </footer>
+    <div class="push"></div>    
+        
+    </div> <!-- /container -->
+
+  </div> <!-- /wrapper -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <script src="{{ HOME_PATH }}assets/js/jquery.js"></script>
+    <script src="{{ HOME_PATH }}assets/js/bootstrap.min.js"></script>
+    <script src="{{ HOME_PATH }}assets/js/switch.js"></script>
+
+    <!--[if !(lt IE 8)]><!-->
+   <script type="text/javascript">
+     (function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=document.location.protocol+"//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+   </script>
+<!--<![endif]-->
+
+
+  </body>
+</html>
