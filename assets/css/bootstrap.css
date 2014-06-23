@@ -3715,7 +3715,7 @@ input[type="submit"].btn.btn-mini {
   margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
-  color: #777777;
+  color: #ddd;
   text-shadow: 0 1px 0 #ffffff;
 }
 .navbar .brand:hover,
@@ -5213,7 +5213,7 @@ body {
   background-color: #eee;
 }
 body#index {
-  color: #999;
+  color: #ddd;
 }
 body#index .hero-index {
   box-shadow: none !important;
@@ -5258,7 +5258,7 @@ body#index a:hover {
 }
 .navbar a.brand {
   text-shadow: none;
-  color: #999;
+  color: #ddd;
   padding-top: 1px;
   padding-bottom: 1px;
 }
@@ -5366,6 +5366,7 @@ h1 {
   width: 100%;
   height: 220px;
   float: none;
+  color: #131425;
 }
 .hero-index {
   padding: 40px 0px 0px 0px;
