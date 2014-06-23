@@ -5462,12 +5462,14 @@ blockquote {
   font-family: Helvetica;
   font-weight: 200;
   letter-spacing: -1px;
+  text-align: center;
 }
 .text-box a {
   text-align: center;
 }
 .text-box p {
-  padding: 10px auto;
+  padding: 6px;
+  text-align: center;
 }
 .posts {
   list-style: none;

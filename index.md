@@ -4,21 +4,35 @@ title: Open Science Codefest 2014
 ---
 {% include JB/setup %}
 
-<div class="title" id="activities">
-  <i class="icon-coffee">
-  </i>
-  Activities
-</div> 
-- Design
-- Code
-- Discuss
-- Analyze
+<div><p>&nbsp</p></div>
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span3 text-box">
+      <h4>Design</h4>
+      <p>Collaborate with others to conceive, extend, and design software for open science.</p>
+    </div>
+    <div class="span3 text-box">
+      <h4>Code</h4>
+      <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
+    </div>
+    <div class="span3 text-box">
+      <h4>Discuss</h4>
+      <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
+    </div>
+    <div class="span3 text-box">
+      <h4>Analyze</h4>
+      <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
+    </div>
+  </div>
+</div>
 
 <div class="title" id="activities">
   <i class="icon-coffee">
   </i>
-  Proposed Sessions
+  Sessions
 </div> 
+
+The Codefest is [yours to customize, organize, and create](http://en.wikipedia.org/wiki/Unconference), with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for collaborative coding and design sessions, [ignite talks](http://en.wikipedia.org/wiki/Lightning_talk) that promote communication among participants as activities unfold, and birds-of-a-feather discussions.
 
 <div class="hidden-phone">
   <ul class="posts">
@@ -54,14 +68,6 @@ title: Open Science Codefest 2014
         - Software testing
 
     - Science data management techniques
-
-<div class="title" id="activities">
-  <i class="icon-coffee">
-  </i>
-  Conference organization
-</div> 
-
-The Codefest will not be run like a typical science confererence, but instead will incorporate elements of an [unconference](http://en.wikipedia.org/wiki/Unconference), with the goal of allowing groups with shared interests to connect organically and to work on projects of mutual interest. The conference will be organized to stimulate productivity and community building, while giving ample opportunities for [ignite talks](http://en.wikipedia.org/wiki/Lightning_talk) that promote communication among participants as activities unfold.
 
 - [Hotel and Venue](venue)
 
