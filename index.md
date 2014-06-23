@@ -78,8 +78,28 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
   </i>
   Sponsors
 </div> 
-    - [ISEES](http://isees.nceas.ucsb.edu)
-    - [NCEAS](http://www.nceas.ucsb.edu)
-    - WSSI
-    - RENCI
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span3 text-box">
+      <p><a href="http://isees.nceas.ucsb.edu">ISEES</a><br />
+         Logo here.
+      </p>
+    </div>
+    <div class="span3 text-box">
+      <p><a href="http://www.nceas.ucsb.edu">NCEAS</a><br />
+         Logo here.
+      </p>
+    </div>
+    <div class="span3 text-box">
+      <p><a href="http://example.com">WSSI</a><br />
+         Logo here.
+      </p>
+    </div>
+    <div class="span3 text-box">
+      <p><a href="http://example.com">RENCI</a><br />
+         Logo here.
+      </p>
+    </div>
+  </div>
+</div>
 
