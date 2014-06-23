@@ -2,8 +2,8 @@
 layout: post
 title: "Session template -- copy me to create a new session"
 description: "Provide a brief sentence overview of the session."
-category: [Data science, Coding, Lightning Talk, Discussion] 
-tags: [software for science]
+category: Meta 
+tags: [Software for science]
 ---
 {% include JB/setup %}
 
