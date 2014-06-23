@@ -7,27 +7,31 @@ title: Open Science Codefest 2014
 <div><p>&nbsp</p></div>
 <div class="container-fluid">
   <div class="row-fluid">
-    <div class="span3 text-box">
+    <div class="span3 text-box centered">
+      <i class="fa fa-lightbulb-o fa-3x"></i>
       <h4>Design</h4>
       <p>Collaborate with others to conceive, extend, and design software for open science.</p>
     </div>
-    <div class="span3 text-box">
+    <div class="span3 text-box centered">
+      <i class="fa fa-code fa-3x"></i>
       <h4>Code</h4>
       <p>Put ideas into reality in real time. Prototype open source software for science with others.</p>
     </div>
-    <div class="span3 text-box">
+    <div class="span3 text-box centered">
+      <i class="fa fa-comments fa-3x"></i>
       <h4>Discuss</h4>
       <p>Explore software needs for environmental science, find solutions to vexing software issues.</p>
     </div>
-    <div class="span3 text-box">
+    <div class="span3 text-box centered">
+      <i class="fa fa-flask fa-3x"></i>
       <h4>Analyze</h4>
       <p>Integrate, analyze, and model scientific data to solve pressing environmental issues.</p>
     </div>
   </div>
 </div>
 
-<div class="title" id="activities">
-  <i class="icon-coffee">
+<div class="title" id="sessions">
+  <i class="fa fa-coffee">
   </i>
   Sessions
 </div> 
@@ -43,7 +47,7 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
 </div>
 
 <div class="title" id="categories">
-  <i class="icon-coffee">
+  <i class="fa fa-sitemap">
   </i>
   Session Categories
 </div> 
@@ -82,9 +86,9 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
 - [Organizers](organizers)
 
 <div class="title" id="sponsors">
-  <i class="icon-coffee">
-  </i>
+  <i class="fa fa-university">
   Sponsors
+  </i>
 </div> 
 <div class="container-fluid">
   <div class="row-fluid">
