@@ -3,10 +3,15 @@ layout: default
 title: venue
 ---
 
-# Venue
+# Logistics
 
 - Location
     - Santa Barbara, CA
     - Doubletree Red Lion
 
+# Getting There
+
+# Hotels and lodging options
+
+# Local attractions
 
