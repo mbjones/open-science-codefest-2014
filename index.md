@@ -55,27 +55,27 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
     </ul>
 </div>
 
-    - Data science
-    - Data management
-    - Research data analysis
-    - Software for modeling and model integration
-    - Sustainable software
-
 ## Potential Sessions
 
-    - Code for Science hacking groups
+- Data science
+- Data management
+- Research data analysis
+- Software for modeling and model integration
+- Sustainable software
 
-        - conceive and hack new projects
-        - extend existing systems
-        - design new packages
+- Code for Science hacking groups
 
-    - Software techniques
+    - conceive and hack new projects
+    - extend existing systems
+    - design new packages
 
-        - Intro to {python, Java, R, ...}
-        - Version control
-        - Software testing
+- Software techniques
 
-    - Science data management techniques
+    - Intro to {python, Java, R, ...}
+    - Version control
+    - Software testing
+
+- Science data management techniques
 
 - [Hotel and Venue](venue)
 
