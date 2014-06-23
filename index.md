@@ -52,38 +52,12 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
   Session Categories
 </div> 
 <div>
-    <p>Sessions are categorized into the type of activity involved, and we expect sessions in Data Science, Coding, Design, Discussion, Lightning talks, and others.  The current types of activities currently are:
+    <p>Sessions are categorized into the type of activity involved, and we expect sessions in Data Science, Coding, Design, Discussion, Lightning talks, and others.  We envision sessions covering data science, data management, research data analysis, software for modeling, model coupling, and data-model integration.  Whether you are into [R](http://r-project.org), [scietific python](http://python.org), or any other language, we expect many Code for Science hacks, where people can conceive of and prototype new science software, extend existing systems, and design new packages. The current types of activities currently are:
     <ul class="tag_box inline">
       {% assign categories_list = site.categories %}
       {% include JB/categories_list %}
     </ul>
 </div>
-
-## Potential Sessions
-
-- Data science
-- Data management
-- Research data analysis
-- Software for modeling and model integration
-- Sustainable software
-
-- Code for Science hacking groups
-
-    - conceive and hack new projects
-    - extend existing systems
-    - design new packages
-
-- Software techniques
-
-    - Intro to {python, Java, R, ...}
-    - Version control
-    - Software testing
-
-- Science data management techniques
-
-- [Hotel and Venue](venue)
-
-- [Organizers](organizers)
 
 <div class="title" id="sponsors">
   <i class="fa fa-university">
