@@ -42,11 +42,19 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
   </ul>
 </div>
 
-<div class="title" id="activities">
+<div class="title" id="categories">
   <i class="icon-coffee">
   </i>
-  Categories
+  Session Categories
 </div> 
+<div>
+    <p>Sessions are categorized into the type of activity involved, and we expect sessions in Data Science, Coding, Design, Discussion, Lightning talks, and others.  The current types of activities currently are:
+    <ul class="tag_box inline">
+      {% assign categories_list = site.categories %}
+      {% include JB/categories_list %}
+    </ul>
+</div>
+
     - Data science
     - Data management
     - Research data analysis
