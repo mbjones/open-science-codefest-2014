@@ -73,7 +73,7 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
     </div>
     <div class="span3 text-box">
       <p><a href="http://www.nceas.ucsb.edu">NCEAS</a><br />
-         Logo here.
+          <img src="{{ HOME_PATH }}assets/img/logo-nceas-white.png" />
       </p>
     </div>
     <div class="span3 text-box">
@@ -83,7 +83,6 @@ The Codefest is [yours to customize, organize, and create](http://en.wikipedia.o
     </div>
     <div class="span3 text-box">
       <p><a href="http://example.com">RENCI</a><br />
-         Logo here.
       </p>
     </div>
   </div>
