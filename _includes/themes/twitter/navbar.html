@@ -9,35 +9,35 @@
           <div class="nav-collapse">
             <ul class="nav">
 
-              {% if page.url == "/sessions.html" %}<li class="dropdown active">{% else %}<li class="dropdown">{% endif %}
-                <a href="{{ site.url }}/sessions.html" class="dropdown-toggle" data-toggle="dropdown">
+              {% if page.url == "{{ site.JB.BASE_PATH }}sessions.html" %}<li class="dropdown active">{% else %}<li class="dropdown">{% endif %}
+                <a href="{{ site.JB.BASE_PATH }}sessions.html" class="dropdown-toggle" data-toggle="dropdown">
                   Sessions
                   <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                  {% if page.url == "/sessions.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/sessions.html">Sessions</a></li>
+                  {% if page.url == "{{ site.JB.BASE_PATH }}sessions.html" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.JB.BASE_PATH }}sessions.html">Sessions</a></li>
 
-                  {% if page.url == "/categories.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/categories.html">Categories</a></li>
+                  {% if page.url == "{{ site.JB.BASE_PATH }}categories.html" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.JB.BASE_PATH }}categories.html">Categories</a></li>
 
-                  {% if page.url == "/tags.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/tags.html">Tags</a></li>
+                  {% if page.url == "{{ site.JB.BASE_PATH }}tags.html" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.JB.BASE_PATH }}tags.html">Tags</a></li>
 
-                  {% if page.url == "/pages.html" %}<li class="active">{% else %}<li>{% endif %}
-                  <a href="{{ site.url }}/pages.html">All Pages</a></li>
+                  {% if page.url == "{{ site.JB.BASE_PATH }}pages.html" %}<li class="active">{% else %}<li>{% endif %}
+                  <a href="{{ site.JB.BASE_PATH }}pages.html">All Pages</a></li>
 
                 </ul>
               </li>
 
-              {% if page.url == "/logistics.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/logistics.html">Logistics</a></li>
-              {% if page.url == "/organizers.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/organizers.html">Organizers</a></li>
-              {% if page.url == "/registration.html" %}<li class="active">{% else %}<li>{% endif %}
-              <a href="{{ site.url }}/registration.html">Registration</a></li>
+              {% if page.url == "{{ site.JB.BASE_PATH }}logistics.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.JB.BASE_PATH }}logistics.html">Logistics</a></li>
+              {% if page.url == "{{ site.JB.BASE_PATH }}organizers.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.JB.BASE_PATH }}organizers.html">Organizers</a></li>
+              {% if page.url == "{{ site.JB.BASE_PATH }}registration.html" %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.JB.BASE_PATH }}registration.html">Registration</a></li>
 
-              <li><a href="{{ site.url }}/atom.xml"><i class="icon-rss"></i></a></li>
+              <li><a href="{{ site.JB.BASE_PATH }}atom.xml"><i class="icon-rss"></i></a></li>
 
               <li><a href="http://www.twitter.com/metamattj"><i class="icon-twitter"></i></a></li>
 
